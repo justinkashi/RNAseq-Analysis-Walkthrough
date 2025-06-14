@@ -67,6 +67,8 @@
 21. **Workflow Management with Snakemake**  
     Rule-based reproducible pipelines with DAG visualization.
 
+CASE STUDY: LARGE PLANT DATASET RNA-SEQ ANALYSIS
+
 ### 🧠 Advanced Topics & Extras
 22. **SPECIAL: Machine Learning and AI Crash Course**
 23. **SPECIAL: Cheminformatics and Natural Products**
