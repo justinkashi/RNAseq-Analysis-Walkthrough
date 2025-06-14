@@ -60,9 +60,9 @@
 18. **Expression Clustering and Coexpression Networks**  
     `WGCNA`, `Mfuzz`, and network module interpretation.
 
-19. Brief Walkthrough of Using Genomes and Genomic Analysis**
+19. **Brief Walkthrough of Using Genomes and Genomic Analysis**
 
-20. Biosynthetic Gene Cluster Analysis
+20. **Biosynthetic Gene Cluster Analysis**
 
 21. **Workflow Management with Snakemake**  
     Rule-based reproducible pipelines with DAG visualization.
