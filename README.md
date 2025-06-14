@@ -60,15 +60,18 @@
 18. **Expression Clustering and Coexpression Networks**  
     `WGCNA`, `Mfuzz`, and network module interpretation.
 
-19. **Workflow Management with Snakemake**  
+19. Biosynthetic Gene Cluster Analysis 
+
+20. **Workflow Management with Snakemake**  
     Rule-based reproducible pipelines with DAG visualization.
 
-20. **SPECIAL: Brief Walkthrough of Using Genomes and Genomic Analysis**
+### 🧠 Advanced Topics & Extras
+21. **SPECIAL: Brief Walkthrough of Using Genomes and Genomic Analysis**
 22. **SPECIAL: Machine Learning and AI Crash Course**
-24. **SPECIAL: Cheminformatics and Natural Products**
-25. **SPECIAL: Playing with protein-LLMs**
-26. **SPECIAL: Docking and Protein-Small Molecule Affinity Modeling**
-27. **SPECIAL: BioNeMo**
+23. **SPECIAL: Cheminformatics and Natural Products**
+24. **SPECIAL: Protein Language Models and Structure Prediction**
+25. **SPECIAL: Small Molecule Docking and Affinity Modeling**
+26. **SPECIAL: NVIDIA BioNeMo Toolkit for Protein & Drug Design**
 
 ---
 
