@@ -45,7 +45,7 @@
 13. **Annotation 7: Secondary Structure Prediction**  
     `PSIPRED`, `I-TASSER`, and AlphaFold2.
 
-14. **Annotation 8: AI/ML Tools for Protein Function**  
+14. **Annotation 8: AI/ML Tools for Protein Function Prediction**  
     Embedding models like `ESMFold`, `ProtT5`, and `CLEAN`.
 
 15. **Alignments and Phylogenetic Trees**  
