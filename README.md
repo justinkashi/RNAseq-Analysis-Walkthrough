@@ -37,7 +37,7 @@
     `DIAMOND`, `BLASTp`, UniProt/SwissProt search.
 
 11. **Annotation 5: Protein Domains & Features**  
-    `HMMER`, `Pfam`, and `InterProScan`.
+    `HMMER`, `CDD`, and `InterProScan`.
 
 12. **Annotation 6: Functional Networks and Pathways**  
     `eggNOG`, `KEGG`, `GO`, `BRENDA`, `COG`.
