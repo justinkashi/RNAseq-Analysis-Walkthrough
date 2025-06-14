@@ -64,8 +64,12 @@
     Rule-based reproducible pipelines with DAG visualization.
 
 20. **SPECIAL: Brief Walkthrough of Using Genomes and Genomic Analysis**
+22. **SPECIAL: Machine Learning and AI Crash Course**
+24. **SPECIAL: Cheminformatics and Natural Products**
+25. **SPECIAL: Playing with protein-LLMs**
+26. **SPECIAL: Docking and Protein-Small Molecule Affinity Modeling**
+27. **SPECIAL: BioNeMo**
 
-21. **SPECIAL: Machine Learning and AI Crash Course**
 ---
 
 > 🔬 Feel free to explore each section for command examples, code snippets, tools used, and interpretation strategies. This guide is intended to bridge the gap between wet lab and computational biology. 
