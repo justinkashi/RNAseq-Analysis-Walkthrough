@@ -63,7 +63,7 @@
 19. **Workflow Management with Snakemake**  
     Rule-based reproducible pipelines with DAG visualization.
 
-20. **Brief Walktrhough of Using Genomes and their Analysis** 
+20. **Brief Walkthrough of Using Genomes and their Analysis** 
 
 ---
 
