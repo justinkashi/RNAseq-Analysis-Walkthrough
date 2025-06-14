@@ -6,7 +6,7 @@
 
 ## 📚 Table of Contents
 
-1. [1. Key Prerequisites](01_prerequisites.md)
+1. [Key Prerequisites](01_key_prerequisites.md)
    Conda environment, basic UNIX/R, folder setup.
 
 2. **Study Design for RNA Sequencing**  
