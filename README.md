@@ -1,4 +1,4 @@
-# Walkthrough of RNA-seq Analysis Workflow in a *De Novo* Transcriptome Assembly
+# RNA-seq Analysis Workflow in a *De Novo* Transcriptome Assembly
 
 > This walkthrough showcases the key steps used during my M.Sc. research on plant specialized metabolism in *Tacca chantrieri*. It is designed for biology researchers, graduate students, and anyone new to RNA-seq bioinformatics. Oftentimes like in my case genomes are not available in non-model organisms, requiring a thorough transcriptomic profiling without the use of a genome, hence why no emphasis was made on genome alignment here.
 
